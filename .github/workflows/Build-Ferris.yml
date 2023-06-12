@@ -9,5 +9,3 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["ferris/sweep"]'
-      alphas: 'QWERTY'
-      nav: 'vi'
