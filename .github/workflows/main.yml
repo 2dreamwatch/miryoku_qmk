@@ -7,13 +7,13 @@ on:
     inputs:
       keyboard:
         type: string
-        default: '["ferris/sweep"]'
+        default: '["default"]'
       alphas:
         type: string
-        default: '["QWERTY"]'
+        default: '["default"]'
       nav:
         type: string
-        default: '["vi"]'
+        default: '["default"]'
       clipboard:
         type: string
         default: '["default"]'
