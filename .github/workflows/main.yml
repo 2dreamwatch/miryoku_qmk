@@ -7,7 +7,7 @@ on:
     inputs:
       keyboard:
         type: string
-        default: '["default"]'
+        default: '["ferris/sweep"]'
       alphas:
         type: string
         default: '["QWERTY"]'
