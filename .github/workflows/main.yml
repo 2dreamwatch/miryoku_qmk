@@ -10,10 +10,10 @@ on:
         default: '["default"]'
       alphas:
         type: string
-        default: '["default"]'
+        default: '["QWERTY"]'
       nav:
         type: string
-        default: '["default"]'
+        default: '["vi"]'
       clipboard:
         type: string
         default: '["default"]'
