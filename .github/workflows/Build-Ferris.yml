@@ -10,4 +10,3 @@ jobs:
     with:
       keyboard: '["ferris/sweep"]'
       alphas: '["QWERTY"]'
-      nav: '["vi"]'
