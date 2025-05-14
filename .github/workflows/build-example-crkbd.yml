@@ -8,4 +8,6 @@ jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["crkbd"]'
+      keyboard: '["ferris/sweep"]'
+      alphas: '["qwerty"]'
+      layers: '["flip"]'
